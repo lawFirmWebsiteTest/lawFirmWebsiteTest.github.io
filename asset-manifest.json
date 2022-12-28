@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8662172.css",
-    "main.js": "/static/js/main.e1d6b48c.js",
+    "main.css": "/static/css/main.128a2715.css",
+    "main.js": "/static/js/main.c932044b.js",
     "static/js/787.79a7971c.chunk.js": "/static/js/787.79a7971c.chunk.js",
     "static/media/jury.jpg": "/static/media/jury.2e54afcaa539107831fd.jpg",
     "static/media/lawyer1.jpg": "/static/media/lawyer1.f0911ef580dbdf0bb788.jpg",
@@ -10,12 +10,12 @@
     "static/media/lawyer2.jpg": "/static/media/lawyer2.75ff9bb8fb33e61493fb.jpg",
     "static/media/justice.jpg": "/static/media/justice.ba5a725c7a2d3d6cb525.jpg",
     "index.html": "/index.html",
-    "main.b8662172.css.map": "/static/css/main.b8662172.css.map",
-    "main.e1d6b48c.js.map": "/static/js/main.e1d6b48c.js.map",
+    "main.128a2715.css.map": "/static/css/main.128a2715.css.map",
+    "main.c932044b.js.map": "/static/js/main.c932044b.js.map",
     "787.79a7971c.chunk.js.map": "/static/js/787.79a7971c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8662172.css",
-    "static/js/main.e1d6b48c.js"
+    "static/css/main.128a2715.css",
+    "static/js/main.c932044b.js"
   ]
 }
