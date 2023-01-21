@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c0de0d3.css",
-    "main.js": "/static/js/main.c6ee7789.js",
+    "main.css": "/static/css/main.4ebb658a.css",
+    "main.js": "/static/js/main.ac2eb4f3.js",
     "static/js/27.0f2ecc83.chunk.js": "/static/js/27.0f2ecc83.chunk.js",
     "static/media/lawyer1.png": "/static/media/lawyer1.6f023b03879069279d39.png",
     "static/media/debt.jpg": "/static/media/debt.f145ad8c27e6d26971dc.jpg",
@@ -20,7 +20,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.3c0de0d3.css",
-    "static/js/main.c6ee7789.js"
+    "static/css/main.4ebb658a.css",
+    "static/js/main.ac2eb4f3.js"
   ]
 }
