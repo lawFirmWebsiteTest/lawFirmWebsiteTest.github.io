@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5b016b56.css",
-    "main.js": "/static/js/main.c263ef6e.js",
+    "main.js": "/static/js/main.031c7754.js",
     "static/js/27.0f2ecc83.chunk.js": "/static/js/27.0f2ecc83.chunk.js",
     "static/media/lawyer1.png": "/static/media/lawyer1.7e5f74a8630c8b650914.png",
     "static/media/lawyer2.png": "/static/media/lawyer2.525daac0f47ef700a81f.png",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.5b016b56.css",
-    "static/js/main.c263ef6e.js"
+    "static/js/main.031c7754.js"
   ]
 }
