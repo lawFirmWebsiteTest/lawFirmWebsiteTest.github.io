@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.70605e49.css",
-    "main.js": "/static/js/main.d5edae47.js",
+    "main.css": "/static/css/main.5b016b56.css",
+    "main.js": "/static/js/main.c263ef6e.js",
     "static/js/27.0f2ecc83.chunk.js": "/static/js/27.0f2ecc83.chunk.js",
     "static/media/lawyer1.png": "/static/media/lawyer1.7e5f74a8630c8b650914.png",
     "static/media/lawyer2.png": "/static/media/lawyer2.525daac0f47ef700a81f.png",
     "static/media/building.jpg": "/static/media/building.69df26d8561200d60ded.jpg",
     "static/media/stocks.jpg": "/static/media/stocks.6141661768bc670f092c.jpg",
+    "static/media/money.jpg": "/static/media/money.f4c6d32c4fded4bfff30.jpg",
     "static/media/debt.jpg": "/static/media/debt.e738e2fb598a2845229f.jpg",
     "static/media/consulting.jpg": "/static/media/consulting.306b8fc2a952bcf0e35a.jpg",
     "static/media/glassBuilding.jpg": "/static/media/glassBuilding.3684a0d379b885eaeb09.jpg",
     "static/media/prison.jpg": "/static/media/prison.d81822cf9445b6a1083e.jpg",
+    "static/media/protect.jpg": "/static/media/protect.eb699a88e36efaed460a.jpg",
     "static/media/jury.jpg": "/static/media/jury.aa2cf18c92a0201f82c7.jpg",
     "static/media/books.jpg": "/static/media/books.63a49e668273d8ec2991.jpg",
     "static/media/staircase.jpg": "/static/media/staircase.5dd7e79b44be631ba576.jpg",
@@ -20,7 +22,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.70605e49.css",
-    "static/js/main.d5edae47.js"
+    "static/css/main.5b016b56.css",
+    "static/js/main.c263ef6e.js"
   ]
 }
