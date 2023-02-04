@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b016b56.css",
-    "main.js": "/static/js/main.031c7754.js",
+    "main.css": "/static/css/main.d3d90d2c.css",
+    "main.js": "/static/js/main.e74f57b3.js",
     "static/js/27.0f2ecc83.chunk.js": "/static/js/27.0f2ecc83.chunk.js",
+    "static/media/justice.jpg": "/static/media/justice.23b5375b0796dda88a92.jpg",
     "static/media/lawyer1.png": "/static/media/lawyer1.7e5f74a8630c8b650914.png",
     "static/media/lawyer2.png": "/static/media/lawyer2.525daac0f47ef700a81f.png",
     "static/media/building.jpg": "/static/media/building.69df26d8561200d60ded.jpg",
@@ -18,11 +19,10 @@
     "static/media/staircase.jpg": "/static/media/staircase.5dd7e79b44be631ba576.jpg",
     "static/media/houses.jpg": "/static/media/houses.779770484b321c6c0340.jpg",
     "static/media/pilesPaper.jpg": "/static/media/pilesPaper.263009112d671ec26138.jpg",
-    "static/media/justice.jpg": "/static/media/justice.ba5a725c7a2d3d6cb525.jpg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.5b016b56.css",
-    "static/js/main.031c7754.js"
+    "static/css/main.d3d90d2c.css",
+    "static/js/main.e74f57b3.js"
   ]
 }
